@@ -2,8 +2,6 @@
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
-- 🔭 I’m currently working on **AI Chat Robot Web (MERN)**
-
 - 🌱 I’m currently learning **Python**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/vernachen0214](www.linkedin.com/in/vernachen0214)
