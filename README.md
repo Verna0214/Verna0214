@@ -2,7 +2,7 @@
 <h3 align="center">A passionate backend developer from Taiwan</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python**、**Go**
 
 - 📝 I regularly write articles on [www.linkedin.com/in/vernachen0214](www.linkedin.com/in/vernachen0214)
 
